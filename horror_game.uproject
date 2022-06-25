@@ -21,11 +21,11 @@
 			]
 		},
 		{
-			"Name": "Water",
+			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
 		{
-			"Name": "MovieRenderPipeline",
+			"Name": "Landmass",
 			"Enabled": true
 		}
 	]
